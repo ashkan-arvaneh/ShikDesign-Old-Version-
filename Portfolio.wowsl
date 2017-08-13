@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>7.4</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>fade</CaptionsEffect>
+            <Controls>true</Controls>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Portfolio</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>380</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/glass/</ImageTemplate>
+            <ImageTemplateName>Glass</ImageTemplateName>
+            <ImageWidth>930</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>true</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/Websites Backups/Shik Design/about.html</PublishFileName>
+            <PublishIndex>about.html</PublishIndex>
+            <PublishPath>D:/Websites Backups/Shik Design</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>62</SlideshowDelay>
+            <SlideshowDuration>27</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateFont>Oranienbaum</TemplateFont>
+            <TemplateName>glass</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/Websites Backups/Shik Design/BME3.JPG</url>
+                <title>Website for your latest project</title>
+                <userurl>http://barnsleywomensforum.co.uk/</userurl>
+                <usertarget>_blank</usertarget>
+                <filesize>86984</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/de2.jpg</url>
+                <title>Fully functional E-Commerce website</title>
+                <filesize>95796</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/de3.jpg</url>
+                <title>Secure Online Payment System</title>
+                <filesize>86530</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/en0.jpg</url>
+                <title>Online fashion boutiques</title>
+                <filesize>77203</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/header_bg.png</url>
+                <title>Online Restaurant recommendation website</title>
+                <filesize>172137</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/Ash.JPG</url>
+                <title>Personal Portfolio</title>
+                <filesize>84252</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/BME.JPG</url>
+                <title>Website for your latest project</title>
+                <userurl>http://barnsleywomensforum.co.uk/</userurl>
+                <usertarget>_blank</usertarget>
+                <filesize>107324</filesize>
+            </Image>
+            <Image>
+                <url>D:/Websites Backups/Shik Design/BME2.JPG</url>
+                <title>Website for your community</title>
+                <userurl>http://barnsleywomensforum.co.uk/</userurl>
+                <usertarget>_blank</usertarget>
+                <filesize>69951</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

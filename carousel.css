@@ -1,0 +1,53 @@
+.carousel {
+  margin-bottom: 0;
+  padding: 0 40px 30px 40px;
+}
+
+.carousel-control {
+  left: -12px;
+}
+.carousel-control.right {
+  right: -12px;
+}
+
+.carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+
+.carousel-indicators li {
+  background: #cc3333;
+}
+
+.carousel-indicators .active {
+background: #333333;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: -60px;
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+    box-shadow: none;
+}
+.carousel-indicators .active {
+    background: none repeat scroll 0% 0% #990000;
+}
+.carousel-indicators li {
+    background: none repeat scroll 0% 0% #ff0000;
+}
+.carousel-control.right {
+    right: -70px;
+    left: auto;
+    background: transparent;
+    background-repeat: repeat-x;
+}
+.carousel-control.left {
+    left: -70px;
+    background: transparent;
+    background-repeat: repeat-x;
+}
